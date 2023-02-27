@@ -2,4 +2,4 @@
 Validando desafio de projeto Dio Git/GitHub
 
 ## Links Úteis
-https://www.markdownguide.org/
+(Sintaxe Básica Markdown)[https://www.markdownguide.org/]
